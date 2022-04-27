@@ -3,7 +3,7 @@ This project is a part of the coursework of CSE468: Image Processing and Compute
 
 Phase 1 - Lane Line Detection
 
-## Project Contriputers
+## Project Contributors
 * Hossam Nasr Elghareeb - 16x0151
-* Abanoub Ramsis Soliman - 
-* Masa Wael Daham - 
+* Abanoub Ramsis Soliman - 17W0023
+* Masa Wael Daham - 17W0006
