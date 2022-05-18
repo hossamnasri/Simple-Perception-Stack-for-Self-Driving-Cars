@@ -1,7 +1,7 @@
 # Simple Perception Stack for Self-Driving Cars
 
-Phase 1 - Lane Line Detection
-Phase 2 - Car Detection
+- Phase 1 - Lane Line Detection
+- Phase 2 - Car Detection
 
 ![alt text](https://github.com/hossamnasri/Simple-Perception-Stack-for-Self-Driving-Cars/blob/main/README_Cover_Image.jpeg)
 
