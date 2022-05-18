@@ -3,7 +3,7 @@ This project is a part of the coursework of CSE468: Image Processing and Compute
 
 Phase 1 - Lane Line Detection
 
-![alt text](https://github.com/hossamnasri/Simple-Perception-Stack-for-Self-Driving-Cars/blob/main/ImageProcessing-LaneDetection.jpg)
+![alt text](https://github.com/hossamnasri/Simple-Perception-Stack-for-Self-Driving-Cars/blob/main/README_Cover_Image.jpeg)
 
 
 ## Project Contributors
