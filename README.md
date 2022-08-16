@@ -8,7 +8,7 @@
 
 ## Project Contributors
 
-| Student Name    |      Code     |    Github  |
+| Student Name    |      Code     |    GitHub  |
 |----------|:-------------:|:-------------:|
 | Hossam Nasr Elghareeb |  16x0151 | [Hossam Nasr](https://github.com/hossamnasri)     |
 | Masa Wael Daham |   17W0006  | [Masa Wael](https://github.com/masawael)   |
